@@ -1,2 +1,3 @@
 # hello-world
 O'zim yaratgan omborxona
+Yangiliklar qo'shib ko'rish amaliyoti...
